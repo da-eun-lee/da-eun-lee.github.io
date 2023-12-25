@@ -17,17 +17,18 @@
       institution: University of Michigan, Ann Arbor, Michigan
       year: 2020-present (exp. 2025 April)
       description:
-        - <u>Advisor:</u> Dr. Chris Poulsen, Dr. Julia Cole
-        - Certificate in Data Science, Michigan Institute for Computational Discovery & Engineering
+        - <u>Advisor:</u> Dr. Chris Poulsen / <u>Co-Advisor:</u> Dr. Julia Cole
+        - <u>Certificate in Data Science:</u> Michigan Institute for Computational Discovery & Engineering
     - title: Master of Science, Dept. Earth Science Education
       institution: Ewha Womans University, Seoul, Republic of Korea
-      year: 2018-2020
+      year: 2018 - 2020
       description:
         - <u>Advisor:</u> Dr. Jeonghoon Lee
-        - Thesis: Applications of continuous monitoring of water vapor isotopes: From the Southern Ocean to Antarctic coastal snowpack
+        - <u>Thesis:</u> Applications of continuous monitoring of water vapor isotopes - From the Southern Ocean to Antarctic coastal snowpack
     - title: Bachelor of Science, Dept. Science Education, Earth Science Education
       institution: Ewha Womans University, Seoul, Republic of Korea
-      year: 2014-2018
+      year: 2014 - 2018
+      description: []
 
 - title: Experience
   type: time_table
@@ -36,21 +37,24 @@
       institution: Earth and Environmental Sciences, University of Michigan
       year: 2020 – Present
       description:
-        - Climate Change Research Group (Advisor: Dr. Chris Poulsen)
-        - Collaborative Research: Parsing the influence of climate and tectonics on Miocene ecosystems and faunal evolution in the East African Rift, Kenya (co-PI: Dr. Chris Poulsen)
-        - CZ17O project: Digging into Soil Carbonate Formation Processes with Triple Oxygen Isotopes (PI: Dr. Naomi E. Levin)
+        - Climate Change Research Group 
+        - <u>Advisor:</u> Dr. Chris Poulsen
+        - <u>Collaborative Research:</u> Parsing the influence of climate and tectonics on Miocene ecosystems and faunal evolution in the East African Rift, Kenya
+        - <u>CZ17O project:</u> Digging into Soil Carbonate Formation Processes with Triple Oxygen Isotopes
     - title: Research Assistant
       institution: Korea Polar Research Institute (KOPRI), Incheon, Republic of Korea
-      year: 2018-2019
+      year: 2018 - 2019
       description:
-        - Glaciological Lab at Division of Paleoenvironment Research (PI: Dr. Soon Do Hur)
-        - Reconstruction of past climate and environmental changes using high resolution ice core records in Victoria Land, Antarctica
+        - Glaciological Lab at Division of Paleoenvironment Research
+        - <u>PI:</u> Dr. Soon Do Hur
+        - <u>Reconstruction of past climate and environmental changes:</u> using high resolution ice core records in Victoria Land, Antarctica
     - title: Research Assistant
       institution: Ewha Womans University, Seoul, Republic of Korea
       year: 2017-2020
       description:
-        - Environmental Geochemistry Laboratory (Advisor: Dr. Jeonghoon Lee)
-        - Analysis of stable water vapor isotopes and its applications to the hydrological cycle
+        - Environmental Geochemistry Laboratory
+        - <u>Advisor:</u> Dr. Jeonghoon Lee
+        - <u>Analysis of stable water vapor isotopes:</u> and its applications to the hydrological cycle
 
 - title: Honors and Awards
   type: time_table
