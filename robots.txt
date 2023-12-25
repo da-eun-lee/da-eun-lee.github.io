@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://da-eun-lee.github.io/da-eun-lee//sitemap.xml
+Sitemap: https://da-eun-lee.github.io/sitemap.xml
