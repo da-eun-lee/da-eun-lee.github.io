@@ -19,6 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+I am Daeun Lee, a Ph.D. candidate in the Department of Earth and Environmental Sciences at the University of Michigan. My research focuses on paleoclimate reconstruction using coupled earth system modeling and proxy records, high-resolution climate modeling, and regional analysis, with a keen interest in inter-model variability. My academic journey began with a Bachelor's degree in Science Education, followed by a Master's in Earth Science Education. Currently, I'm working on my Ph.D., advised by Dr. Chris Poulsen, where I've been involved in various research projects related to climate change and environmental studies, including fieldwork in locations such as Antarctica and Kenya. My work has led to several publications and research computing awards. Beyond research, I've been actively engaged in teaching, mentoring, and outreach activities, and I've received recognition for my contributions.
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
