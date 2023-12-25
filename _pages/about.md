@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Ph.D. Candidate, University of Michigan, Department of Earth and Environmental Sciences
 
 profile:
   align: right
