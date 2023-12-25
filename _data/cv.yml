@@ -9,10 +9,6 @@
       value: Department of Earth and Environmental Sciences, University of Michigan, Ann Arbor, MI
     - name: Email
       value: daeunlee@umich.edu
-    - name: Pronouns
-      value: she/her/hers
-    - name: Phone
-      value: 734-999-7434
 
 - title: Research Interests
   type: list
@@ -43,7 +39,7 @@
   contents:
     - title: Graduate Student Research Assistant
       institution: Earth and Environmental Sciences, University of Michigan
-      year: 2020 – Present
+      year: 2020–Present
       description:
         - Climate Change Research Group (Advisor: Dr. Chris Poulsen)
         - Collaborative Research: Parsing the influence of climate and tectonics on Miocene ecosystems and faunal evolution in the East African Rift, Kenya (co-PI: Dr. Chris Poulsen)
