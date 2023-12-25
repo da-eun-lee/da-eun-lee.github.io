@@ -4,7 +4,7 @@
     - name: Full Name
       value: Daeun Lee
     - name: Position
-      value: Ph.D. candidate
+      value: Ph.D. Candidate
     - name: Department
       value: Department of Earth and Environmental Sciences, University of Michigan, Ann Arbor, MI
     - name: Email
@@ -13,9 +13,9 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. candidate, Dept. Earth and Environmental Sciences
+    - title: Ph.D. Candidate, Dept. Earth and Environmental Sciences
       institution: University of Michigan, Ann Arbor, Michigan
-      year: 2020-present (exp. 2025 April)
+      year: 2020 - Present (exp. 2025 April)
       description:
         - <u>Advisor:</u> Dr. Chris Poulsen / <u>Co-Advisor:</u> Dr. Julia Cole
         - <u>Certificate in Data Science:</u> Michigan Institute for Computational Discovery & Engineering
