@@ -9,10 +9,6 @@
       value: Department of Earth and Environmental Sciences, University of Michigan, Ann Arbor, MI
     - name: Email
       value: daeunlee@umich.edu
-    - name: Pronouns
-      value: she/her/hers
-    - name: Phone
-      value: 734-999-7434
 
 - title: Education
   type: time_table
