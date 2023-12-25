@@ -9,6 +9,10 @@
       value: Department of Earth and Environmental Sciences, University of Michigan, Ann Arbor, MI
     - name: Email
       value: daeunlee@umich.edu
+    - name: Pronouns
+      value: she/her/hers
+    - name: Phone
+      value: 734-999-7434
 
 - title: Research Interests
   type: list
@@ -20,7 +24,7 @@
   contents:
     - title: Ph.D. candidate, Dept. Earth and Environmental Sciences
       institution: University of Michigan, Ann Arbor, Michigan
-      year: 2020-present (exp. 2025 April)
+      year: 2020-present
       description:
         - Advisor: Dr. Chris Poulsen / co-advisor: Dr. Julia Cole
         - Certificate in Data Science, Michigan Institute for Computational Discovery & Engineering
@@ -56,3 +60,27 @@
       description:
         - Environmental Geochemistry Laboratory (Advisor: Dr. Jeonghoon Lee)
         - Analysis of stable water vapor isotopes and its applications to the hydrological cycle
+
+- title: Honors and Awards
+  type: nested_list
+  contents:
+    - title: Details of awards and honors available upon request
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Paleoclimate Reconstruction
+      items: 
+        - Coupled Earth System Modeling
+        - Proxy Records Analysis
+    - title: High-Resolution Climate Modeling
+      items:
+        - Regional Climate Analysis
+        - Inter-Model Variability Analysis
+
+- title: Other Interests
+  type: list
+  contents:
+    - "Hobbies: Climbing, Biking"
+
+# End of CV
