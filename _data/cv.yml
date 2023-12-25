@@ -2,96 +2,95 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Daeun Lee
+    - name: Position
+      value: Ph.D. candidate
+    - name: Department
+      value: Department of Earth and Environmental Sciences, University of Michigan, Ann Arbor, MI
+    - name: Email
+      value: daeunlee@umich.edu
+
+- title: Research Interests
+  type: list
+  contents:
+    - Paleoclimate reconstruction using coupled earth system modeling and proxy records, high-resolution climate modeling and regional analysis, inter-model variability analysis
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. candidate, Dept. Earth and Environmental Sciences
+      institution: University of Michigan, Ann Arbor, Michigan
+      year: 2020-present (exp. 2025 April)
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Advisor: Dr. Chris Poulsen / co-advisor: Dr. Julia Cole
+        - Certificate in Data Science, Michigan Institute for Computational Discovery & Engineering
+    - title: Master of Science, Dept. Earth Science Education
+      institution: Ewha Womans University, Seoul, Republic of Korea
+      year: 2018-2020
       description:
-        - Description 1.
-        - Description 2.
+        - Advisor: Dr. Jeonghoon Lee
+        - Thesis: “Applications of continuous monitoring of water vapor isotopes: From the Southern Ocean to Antarctic coastal snowpack”
+    - title: Bachelor of Science, Dept. Science Education, Earth Science Education
+      institution: Ewha Womans University, Seoul, Republic of Korea
+      year: 2014-2018
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Student Research Assistant
+      institution: Earth and Environmental Sciences, University of Michigan
+      year: 2020 – Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Climate Change Research Group (Advisor: Dr. Chris Poulsen)
+        - Collaborative Research: Parsing the influence of climate and tectonics on Miocene ecosystems and faunal evolution in the East African Rift, Kenya (co-PI: Dr. Chris Poulsen)
+        - CZ17O project: Digging into Soil Carbonate Formation Processes with Triple Oxygen Isotopes (PI: Dr. Naomi E. Levin)
+    - title: Research Assistant
+      institution: Korea Polar Research Institute (KOPRI), Incheon, Republic of Korea
+      year: 2018-2019
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Glaciological Lab at Division of Paleoenvironment Research (PI: Dr. Soon Do Hur)
+        - Reconstruction of past climate and environmental changes using high resolution ice core records in Victoria Land, Antarctica
+    - title: Research Assistant
+      institution: Ewha Womans University, Seoul, Republic of Korea
+      year: 2017-2020
       description:
+        - Environmental Geochemistry Laboratory (Advisor: Dr. Jeonghoon Lee)
+        - Analysis of stable water vapor isotopes and its applications to the hydrological cycle
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Publications
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - title: In Preparation
       items:
-        - Description 1.
-        - Description 2.
+        - "Lee, D., Poulsen, C. J., and Acosta, R. P. Multiple ocean equilibria cause decoupling of the atmospheric pCO2 and regional temperatures. Paleoceanography and Paleoclimatology."
+    - title: Submitted
+      items:
+        - "Saslaw, M., Yang, D., Lee, D., Poulsen, C. J., and Henkes, G. An isotope mass balance analysis of evaporative loss from Lake Turkana, Kenya using δ18O and δD of natural waters. Water Resources Research."
+    - title: 2022
+      items:
+        - "Green, D. R., Ávila, J. N., Cote, S., Dirks, N., Lee, D., Poulsen, C. J., Williams, I. S., Smith, T. M. Fine-Scaled Climate Variation in Equatorial Africa Revealed by Modern and Fossil Primate Teeth. PNAS."
+    - title: 2020
+      items:
+        - "Lee, D., Han, Y., Kim, S., Hur, S. D., Lee, J. Development of a calibration system for stable water vapor isotope measurements using Cavity Ring-Down Spectroscope. Journal of the Geological Society of Korea. 56(3), 395-403. DOI: 10.14770/jgsk.2020.56.3.395"
 
-- title: Other Interests
-  type: list
+- title: Field Experience
+  type: nested_list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: 2023
+      items:
+        - "Soil water sampling: Mojave National Preserve, CA."
+    - title: 2022
+      items:
+        - "Meteoric water and surface water sampling: Kenya."
+    - title: 2021
+      items:
+        - "Setting up stable water isotope analyzer (CRDS by Picarro inc.) and installing precipitation monitoring stations: Mpala Research Center, Kenya."
+    - title: 2018-2019
+      items:
+        - "Water vapor isotope measurements by CRDS in Marine Boundary Layer: Antarctic Ocean research cruise R/V ARAON from Christchurch, NZ to Jangbogo Station, Antarctica."
+        - "Shallow ice core drilling with surface water vapor isotope monitoring campaign: Tourmaline Plateau, Antarctica."
+        - "Separation of lake “Osongjae” evapotranspiration by water vapor isotopes: Jeonju, Republic of Korea."
+        - "Continuous monitoring of water vapor isotopes: KOPRI, Incheon, Republic of Korea."
+        - "Tracing the water vapor transport and its origin using water vapor isotopes: Jeju island, Republic of Korea."
+
+# Continue with the same structure for Conferences and Presentations, Research Computing Awards, etc.
