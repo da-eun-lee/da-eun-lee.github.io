@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Ph.D. Candidate, University of Michigan,
 
 profile:
   align: right
-  image: dlee.jpg
+  image: dlee.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
