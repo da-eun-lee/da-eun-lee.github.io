@@ -10,6 +10,11 @@
     - name: Email
       value: daeunlee@umich.edu
 
+- title: Research Interests
+  type: list
+  contents:
+    - Paleoclimate reconstruction using coupled earth system modeling and proxy records, high-resolution climate modeling and regional analysis, inter-model variability analysis
+
 - title: Education
   type: time_table
   contents:
@@ -18,9 +23,7 @@
       year: 2020 - Present
       description:
         - <u>Advisor:</u> Dr. Chris Poulsen / <u>Co-Advisor:</u> Dr. Julia Cole
-    - title: Certificate in Data Science
-      institution: University of Michigan, Ann Arbor, Michigan
-      year: 2020 - Present
+        - Certificate in Data Science, Michigan Institute for Computational Discovery & Engineering
     - title: Master of Science, Dept. Earth Science Education
       institution: Ewha Womans University, Seoul, Republic of Korea
       year: 2018 - 2020
@@ -30,53 +33,65 @@
     - title: Bachelor of Science, Dept. Science Education, Earth Science Education
       institution: Ewha Womans University, Seoul, Republic of Korea
       year: 2014 - 2018
-      description: []
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
     - title: Graduate Student Research Assistant
       institution: Earth and Environmental Sciences, University of Michigan
       year: 2020 – Present
       description:
-        - Climate Change Research Group 
-        - <u>Advisor:</u> Dr. Chris Poulsen
+        - Climate Change Research Group
+        - <u>Advisor:</u> Dr. Chris Poulsen)
         - <u>Collaborative Research:</u> Parsing the influence of climate and tectonics on Miocene ecosystems and faunal evolution in the East African Rift, Kenya
-        - <u>CZ17O project:</u> Digging into Soil Carbonate Formation Processes with Triple Oxygen Isotopes
+        - <u>CZ17O project:</u> Digging into Soil Carbonate Formation Processes with Triple Oxygen Isotopes (PI: Dr. Naomi E. Levin)
     - title: Research Assistant
       institution: Korea Polar Research Institute (KOPRI), Incheon, Republic of Korea
       year: 2018 - 2019
       description:
         - Glaciological Lab at Division of Paleoenvironment Research
-        - <u>Advisor:</u> Dr. Soon Do Hur
-        - <u>Reconstruction of past climate and environmental changes:</u> using high resolution ice core records in Victoria Land, Antarctica
+        - <u>PI:</u> Dr. Soon Do Hur
+        - Reconstruction of past climate and environmental changes using high resolution ice core records in Victoria Land, Antarctica
     - title: Research Assistant
       institution: Ewha Womans University, Seoul, Republic of Korea
       year: 2017 - 2020
       description:
         - Environmental Geochemistry Laboratory
         - <u>Advisor:</u> Dr. Jeonghoon Lee
-        - <u>Analysis of stable water vapor isotopes:</u> and its applications to the hydrological cycle
+        - Analysis of stable water vapor isotopes and its applications to the hydrological cycle
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: Details available upon request
-      items: []
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Paleoclimate Reconstruction
-      items: 
-        - Coupled Earth System Modeling
-        - Proxy Records Analysis
-    - title: High-Resolution Climate Modeling
-      items:
-        - Regional Climate Analysis
-        - Inter-Model Variability Analysis
-
-- title: Other Interests
+- title: Publications
   type: list
   contents:
-    - "Hobbies: Climbing, Biking"
+    - "Lee, D., Poulsen, C. J., and Acosta, R. P. (in-prep) Multiple ocean equilibria cause decoupling of the atmospheric pCO2 and regional temperatures. Paleoceanography and Paleoclimatology."
+    - "Saslaw, M., Yang, D., Lee, D., Poulsen, C. J., and Henkes, G. (submitted) An isotope mass balance analysis of evaporative loss from Lake Turkana, Kenya using δ18O and δD of natural waters. Water Resources Research."
+    - "Green, D. R., Ávila, J. N., Cote, S., Dirks, N., Lee, D., Poulsen, C. J., Williams, I. S., Smith, T. M. (2022) Fine-Scaled Climate Variation in Equatorial Africa Revealed by Modern and Fossil Primate Teeth. PNAS."
+    - "Lee, D., Han, Y., Kim, S., Hur, S. D., Lee, J. (2020) Development of a calibration system for stable water vapor isotope measurements using Cavity Ring-Down Spectroscope. Journal of the Geological Society of Korea. 56(3), 395-403. DOI: 10.14770/jgsk.2020.56.3.395"
+
+- title: Field Experience
+  type: time_table
+  contents:
+    - year: 2023
+      description:
+        - Soil water sampling at Mojave National Preserve, CA
+    - year: 2022
+      description:
+        - Meteoric water and surface water sampling in Kenya
+    - year: 2021
+      description:
+        - Setting up stable water isotope analyzer (CRDS by Picarro Inc.) and installing precipitation monitoring stations at Mpala Research Center, Kenya
+    - year: 2018-2019
+      description:
+        - Water vapor isotope measurements by CRDS in Marine Boundary Layer during Antarctic Ocean research cruise R/V ARAON from Christchurch, NZ to Jangbogo Station, Antarctica
+        - Shallow ice core drilling with surface water vapor isotope monitoring campaign at Tourmaline Plateau, Antarctica
+        - Separation of lake "Osongjae" evapotranspiration by water vapor isotopes in Jeonju, Republic of Korea
+        - Continuous monitoring of water vapor isotopes at KOPRI, Incheon, Republic of Korea
+        - Tracing the water vapor transport and its origin using water vapor isotopes on Jeju island, Republic of Korea
+
+- title: Conferences and Presentations
+  type: list
+  contents:
+    - "Lee, D. and Poulsen, C. J. (2023, December) Response of Eastern African Hydroclimate to Tethys Seaway Closure and CO2. American Geophysical Union Fall Meeting, San Francisco, 2023. (Poster presentation)"
+    - "Lee, D., Poulsen, C. J., and Acosta, R. P. (2022, December) Multiple ocean equilibria cause decoupling of the atmospheric pCO2 and regional temperatures. American Geophysical Union Fall Meeting, Chicago, 2022. (Poster presentation)"
+    - "Lee, D., Acosta, R. P., and Poulsen, C. J. (2021, December) Modeling the effects of declining CO2 and C4 vegetation expansion on late Miocene African environments. American Geophysical Union Fall Meeting, 2021. (Oral presentation)"
+    - "Lee, D., Han, Y., Moon, J., Kim, S., Hwang, H., Hur, S. D., and Lee, J. (2019, October) Continuous measurements of water vapor isotopes on the Antarctic Ross Sea coastline. The
