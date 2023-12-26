@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <a href='#'>Affiliations</a> Ph.D. Candidate, University of Michigan, Department of Earth and Environmental Sciences<br>
+  <a href='#'>Affiliation</a> Ph.D. Candidate, University of Michigan, Department of Earth and Environmental Sciences<br>
   <a href='#'>Email</a> daeunlee@umich.edu
 
 profile:
