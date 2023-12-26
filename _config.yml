@@ -273,8 +273,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Lee, L.]
-  first_name: [Daeun]
+  last_name: [Lee]
+  first_name: [Daeun, L.]
 
   style: apa
   locale: en
