@@ -18,12 +18,14 @@
 - title: Education
   type: time_table
   contents:
-    - title: <p>Ph.D. Candidate, Dept.<br>Earth and Environmental Sciences.</p>
+    - title: Ph.D. Candidate, Dept.<br>Earth and Environmental Sciences
       institution: University of Michigan, Ann Arbor, Michigan
       year: 2020 - Present
       description:
         - <u>Advisor:</u> Dr. Chris Poulsen / <u>Co-Advisor:</u> Dr. Julia Cole
-        - Certificate in Data Science, Michigan Institute for Computational Discovery & Engineering
+    - title: Certificate in Data Science<br>Michigan Institute for Computational Discovery & Engineering
+      institution: University of Michigan, Ann Arbor, Michigan
+      year: 2023 - Present, 
     - title: Master of Science, Dept. Earth Science Education
       institution: Ewha Womans University, Seoul, Republic of Korea
       year: 2018 - 2020
