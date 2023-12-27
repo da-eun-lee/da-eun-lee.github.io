@@ -18,21 +18,21 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. Candidate, Dept.<br>Earth and Environmental Sciences
+    - title: Ph.D. Candidate<br>Department of Earth and Environmental Sciences
       institution: University of Michigan, Ann Arbor, Michigan
       year: 2020 - Present
       description:
         - <u>Advisor:</u> Dr. Chris Poulsen / <u>Co-Advisor:</u> Dr. Julia Cole
     - title: Certificate in Data Science<br>Michigan Institute for Computational Discovery & Engineering
       institution: University of Michigan, Ann Arbor, Michigan
-      year: 2023 - Present, 
-    - title: Master of Science, Dept. Earth Science Education
+      year: 2023 - Present
+    - title: Master of Science<br>Department of Earth Science Education
       institution: Ewha Womans University, Seoul, Republic of Korea
       year: 2018 - 2020
       description:
         - <u>Advisor:</u> Dr. Jeonghoon Lee
         - <u>Thesis:</u> Applications of continuous monitoring of water vapor isotopes - From the Southern Ocean to Antarctic coastal snowpack
-    - title: Bachelor of Science, Dept. Science Education, Earth Science Education
+    - title: Bachelor of Science<br>Department of Earth Science Education
       institution: Ewha Womans University, Seoul, Republic of Korea
       year: 2014 - 2018
 
