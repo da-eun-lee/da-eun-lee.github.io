@@ -40,7 +40,7 @@
   type: time_table
   contents:
     - title: Graduate Student Research Assistant
-      institution: Deaprtment of Earth and Environmental Sciences, University of Michigan
+      institution: Deaprtment of Earth and Environmental Sciences<br>University of Michigan
       year: 2020 – Present
       description:
         - Climate Change Research Group
@@ -48,14 +48,14 @@
         - <u>Collaborative Research:</u> Parsing the influence of climate and tectonics on Miocene ecosystems and faunal evolution in the East African Rift, Kenya
         - <u>CZ17O project:</u> Digging into Soil Carbonate Formation Processes with Triple Oxygen Isotopes
     - title: Research Assistant
-      institution: Korea Polar Research Institute (KOPRI), Incheon, Republic of Korea
+      institution: Korea Polar Research Institute (KOPRI)<br>Incheon, Republic of Korea
       year: 2018 - 2019
       description:
         - Glaciological Lab at Division of Paleoenvironment Research
         - <u>PI:</u> Dr. Soon Do Hur
         - Reconstruction of past climate and environmental changes using high resolution ice core records in Victoria Land, Antarctica
     - title: Research Assistant
-      institution: Ewha Womans University, Seoul, Republic of Korea
+      institution: Ewha Womans University<br>Seoul, Republic of Korea
       year: 2017 - 2020
       description:
         - Environmental Geochemistry Laboratory
